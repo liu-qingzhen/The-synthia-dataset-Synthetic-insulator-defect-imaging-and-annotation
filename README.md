@@ -1,7 +1,9 @@
 
 # Insulator-defect-dataset
-The insulator dataset can be downloaded by finishing filling the sheet. It will return the link to download the data.
+The insulator dataset can be downloaded by finishing filling the sheet at 
 https://www.wjx.cn/vm/Qw7eG2x.aspx
+
+It will return the link to download the data.
 ## Generation Principels
 ![hve_dataset](https://github.com/user-attachments/assets/be7e62db-fda6-4b4d-af4e-aac176502873)
 ## Data Samples
