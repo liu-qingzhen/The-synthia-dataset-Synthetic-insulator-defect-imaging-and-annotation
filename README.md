@@ -1,2 +1,5 @@
+
 # Insulator-defect-dataset
-The dataset is created with domain randomization in blender. You can use the dataset for research at the website http://47.97.9.53:1111. If the dataset is used in your research publication, please contact the author liu_qingzhen@sjtu.edu.cn for correct citation.
+The insulator dataset can be downloade by finishing filling the sheet. It will return the link to download the data.
+![hve_dataset](https://github.com/user-attachments/assets/be7e62db-fda6-4b4d-af4e-aac176502873)
+![generation_samples](https://github.com/user-attachments/assets/63737fee-ac6b-4fdf-874d-fbf29b46c698)
