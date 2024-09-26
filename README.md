@@ -4,7 +4,7 @@
 
 **SYNTHIDIA** (SYNTHetic Insulator Defect Imaging and Annotation system) is designed for insulator defect detection and bolster. Recognizing the limitations posed by the lack of comprehensive defect datasets, **SYNTHIDIA** leverages **domain randomization** to create synthetic images in a detailed **3D virtual environment**.
 
-This innovative dataset comprises **22,000 meticulously annotated images**, featuring both **pixel-level** and **instance-level** labels for critical defect types, including **broken** and **drop defects**. Extensive testing demonstrates **SYNTHIDIA**’s exceptional ability to generalize to real-world conditions, while also revealing insights into how various domain factors affect model performance.
+This dataset comprises **22,000 annotated images**, featuring both **pixel-level** and **instance-level** labels for critical defect types, including **broken** and **drop defects**. Extensive testing demonstrates **SYNTHIDIA**’s exceptional ability to generalize to real-world conditions, while also revealing insights into how various domain factors affect model performance.
 
 With the incorporation of **3D models**, **SYNTHIDIA** not only bridges the data gap in insulator defect detection but also enhances model performance in scenarios with limited data, significantly advancing the field of **power inspection**.
 
