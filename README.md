@@ -28,10 +28,14 @@ For detailed generation illustration, please check [video](https://www.youtube.c
 |---|---|---|
 | ![Cutting Model](https://github.com/user-attachments/assets/039cce61-34e1-4dc1-a369-b6fd42e0f137) | ![Intersect](https://github.com/user-attachments/assets/3b18cff2-3a7e-4b34-a195-bd47bd789d50) | ![Boolean Operation](https://github.com/user-attachments/assets/b92cce3d-c622-48c4-87d0-c26cc13036c6) |
 
+
+
+
+
 ### 3. Full Defect Insulator Generation and Scene Rendering
 | Generate a Full Defect Insulator | Rendering Loop |
 |---|---|
-| ![Full Defect Insulator](https://github.com/user-attachments/assets/31ee7fd0-3697-4822-b15e-93c385fb9689) | ![Rendering Loop](https://github.com/user-attachments/assets/74912689-4ee6-4968-a714-3577b8f42172) |
+| ![Full Defect Insulator](https://github.com/user-attachments/assets/c0421b5e-d24c-4083-99fc-c9ed9efb44e6) | ![Rendering Loop](https://github.com/user-attachments/assets/041c4b36-7915-4cde-8192-cce249e1f7c3) |
 
 ## Dataset Download
 The insulator dataset can be downloaded by filling out the form at the following link: [Download Dataset](https://www.wjx.cn/vm/Qw7eG2x.aspx).
