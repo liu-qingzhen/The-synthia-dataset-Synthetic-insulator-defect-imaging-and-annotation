@@ -11,7 +11,8 @@ With the incorporation of **3D models**, **SYNTHIDIA** not only bridges the data
 
 ## Overview
 
-![Sample Generation](https://github.com/user-attachments/assets/63737fee-ac6b-4fdf-874d-fbf29b46c698)
+![generation_samples](https://github.com/user-attachments/assets/22e17096-bd94-4544-9af0-d3fe6411df21)
+
 
 ## Generation Process Introduction
 
