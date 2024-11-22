@@ -16,7 +16,6 @@ With the incorporation of **3D models**, **SYNTHIDIA** not only bridges the data
 
 ## Generation Process Introduction
 
-For detailed generation illustration, please check [video](https://www.youtube.com/watch?v=jSLEIVOGusY)
 
 ### 1. Blender Interface and Rendered Clips
 | Blender Interface | Rendered Clip 1 | Rendered Clip 2 |
