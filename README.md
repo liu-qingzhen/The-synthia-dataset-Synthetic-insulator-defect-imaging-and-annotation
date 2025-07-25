@@ -8,6 +8,9 @@ This dataset comprises **22,000 annotated images**, featuring both **pixel-level
 
 With the incorporation of **3D models**, **SYNTHIDIA** not only bridges the data gap in insulator defect detection but also enhances model performance in scenarios with limited data, significantly advancing the field of **power inspection**.
 
+This repository provides the dataset associated with our accepted manuscript in High Voltage, titled: "The SYNTHIDIA Dataset: Synthetic Insulator Defect Imaging and Annotation".
+[Synthidia.pdf](https://github.com/user-attachments/files/21413614/synthidia.pdf)
+
 
 ## Overview
 
