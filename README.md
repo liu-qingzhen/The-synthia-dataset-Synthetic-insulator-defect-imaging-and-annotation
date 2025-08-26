@@ -1,4 +1,4 @@
-# Insulator Defect Dataset
+# The Synthidia Dataset: Synthetic Insulator Defect Imaging and Annotation
 
 ## SYNTHIDIA
 
